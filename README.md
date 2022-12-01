@@ -1,4 +1,18 @@
-### Hi there 👋
+### Привет всем! Меня зовут Гарри 👋
+
+- 📚 Учусь в Яндекс.Практикуме
+- 🎯 Хочу найти работу, чтобы набрться опыта в бою!
+- :pencil2: Хочу писать чистый и интуитивно понятынй код
+- 🌱 Хочу приносить пользу комнаде
+
+### Мой стек
+- JS 
+- HTML
+- CSS/SCSS/Sass
+- React.js
+- Redux Toolkit
+- Webpack
+- Git
 
 <!--
 **Garri-99/Garri-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

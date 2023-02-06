@@ -7,10 +7,11 @@
 
 ### Мой стек
 - JS 
+- TS
 - HTML
 - CSS/SCSS/Sass
-- React.js
-- Redux Toolkit
+- React.js / React Router / React DnD
+- Redux / Redux Toolkit
 - Webpack
 - Git
 

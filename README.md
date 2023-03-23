@@ -9,7 +9,7 @@
 - JS 
 - TS
 - HTML
-- CSS/SCSS/Sass
+- CSS / SCSS / Sass
 - React.js / React Router / React DnD
 - Redux / Redux Toolkit
 - Jest / Cypress

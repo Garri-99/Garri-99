@@ -12,6 +12,7 @@
 - CSS/SCSS/Sass
 - React.js / React Router / React DnD
 - Redux / Redux Toolkit
+- Jest / Cypress
 - Webpack
 - Git
 
